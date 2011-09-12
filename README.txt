@@ -49,3 +49,5 @@ sudo cp -Rv LAMP/* /etc/puppet/modules
 sudo cp /etc/puppet/modules/nodes.pp /etc/puppet/manifests/
 sudo puppet -v /etc/puppet/manifests/nodes.pp
 sudo reboot
+
+Thats all! :)
